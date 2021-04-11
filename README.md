@@ -1,7 +1,7 @@
 # CookFeed
 
 ### 1. APRESENTAÇÃO
-CookFeed é um jogo de simulação para o usuário aprender a cozinhar de uma maneira divertida enquanto prepara receitas reais através do aplicativo.
+CookFeed é um aplicativo gamificado de simulação para o usuário aprender a cozinhar de uma maneira divertida enquanto prepara receitas reais através do aplicativo.
 
 
 ### 2. EQUIPE 
