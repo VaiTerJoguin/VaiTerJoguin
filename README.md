@@ -15,7 +15,7 @@ CookFeed é um jogo de simulação para o usuário aprender a cozinhar de uma ma
 |Pedro Guilherme Santana Corrêa|dev|
 
 
-### 2. ESPECIFICAÇÃO 
+### 3. ESPECIFICAÇÃO 
 ####  PERSONAS 
 - Usuário: alguém que não tenha experiência cozinhando, de uma faixa etária jovem (12 - 19, durante esse período o indivíduo passa a se tornar independente, portanto, precisa saber preparar sua própria comida).
 
