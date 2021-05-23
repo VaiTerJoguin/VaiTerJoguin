@@ -1,5 +1,7 @@
 # CookFeed
 
+<img src="https://avatars.githubusercontent.com/u/80603225?v=4">
+
 ### 1. APRESENTAÇÃO
 CookFeed é um aplicativo gamificado de simulação para o usuário aprender a cozinhar de uma maneira divertida enquanto prepara receitas reais através do aplicativo.
 
