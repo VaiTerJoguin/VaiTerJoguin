@@ -21,8 +21,10 @@ CookFeed é um aplicativo gamificado de simulação para o usuário aprender a c
 ####  PERSONAS 
 - Usuário: alguém que não tenha experiência cozinhando, de uma faixa etária jovem (12 - 19, durante esse período o indivíduo passa a se tornar independente, portanto, precisa saber preparar sua própria comida).
 
+<a href="https://github.com/VaiTerJoguin/TCC">Ver Mais...</a>
+
 
 <a href="https://github.com/VaiTerJoguin/apresentacao"> VERSÃO FINAL - Apresentação </a>
 
 
-<a href="https://github.com/VaiTerJoguin/TCC">Ver Mais...</a>
+
